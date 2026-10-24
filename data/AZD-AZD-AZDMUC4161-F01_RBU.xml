@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TorqueDocument>
+  <DocumentDate>2024-09-15</DocumentDate>
+  <Manufacturer>AZD</Manufacturer>
+  <Series>F01</Series>
+  <MainGroup>41</MainGroup>
+  <MainGroupName>Body</MainGroupName>
+  <SubGroup>61</SubGroup>
+  <SubGroupName>Engine compartment lid</SubGroupName>
+  <Notes>Tightening torques for body and engine compartment components, series F01/F02/F10/F11.</Notes>
+  <Addresses>
+    <Address>
+      <Code>1AZ</Code>
+      <Torque>20,0</Torque>
+      <Notes>Bonnet to hinge</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>2AZ</Code>
+      <Torque>18,5</Torque>
+      <Notes>Hinge upper section to hinge lower section</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>3AZ</Code>
+      <Torque>20,0</Torque>
+      <Notes>Hinge lower section to body, to 09/2010</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2010-09-30</EndDate>
+    </Address>
+    <Address>
+      <Code>3AZ</Code>
+      <Torque>28,0</Torque>
+      <Notes>Hinge lower section to body, rear screw connection, from 10/2010. M8 Strength class 10.9</Notes>
+      <StartDate>2010-10-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>4AZ</Code>
+      <Torque>17,0</Torque>
+      <Notes>Actuator to hinge upper section</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>5AZ</Code>
+      <Torque>17,0</Torque>
+      <Notes>Actuator to holder</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>6AZ</Code>
+      <Torque>18,5</Torque>
+      <Notes>Holder to hinge lower section</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>7AZ</Code>
+      <Torque>18,5</Torque>
+      <Notes>Holder, damper to hinge upper section</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>8AZ</Code>
+      <Torque>7,6</Torque>
+      <Notes>Actuator to holder, active pedestrian protection (from 04/2011)</Notes>
+      <StartDate>2011-04-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>9AZ</Code>
+      <Torque>23,0</Torque>
+      <Notes>Lever to hinge, left</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>10AZ</Code>
+      <Torque>23,0</Torque>
+      <Notes>Lever to hinge, right. Attention! Left-hand threads.</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>11AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Lock to bonnet</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>12AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Bowden cable to lock</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>13AZ</Code>
+      <Torque>6,0</Torque>
+      <Notes>Release lever to body</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>14AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Catch hook to body</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>15AZ</Code>
+      <Torque>21,0</Torque>
+      <Notes>Bonnet stop buffer support</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>16AZ</Code>
+      <Torque>5,0</Torque>
+      <Notes>Sealing strip holder to bonnet</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>17AZ</Code>
+      <Torque>12,0</Torque>
+      <Notes>Wiper motor bracket to body</Notes>
+      <StartDate>2010-03-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>18AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Wiper arm cap nut</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>19AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Front bumper carrier to longitudinal member, left</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>20AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Front bumper carrier to longitudinal member, right</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>21AZ</Code>
+      <Torque>6,0</Torque>
+      <Notes>Front bumper trim panel to carrier</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>22AZ</Code>
+      <Torque>4,5</Torque>
+      <Notes>Headlamp washer nozzle to bumper</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>23AZ</Code>
+      <Torque>9,0</Torque>
+      <Notes>Fog lamp to bumper</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>24AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Park distance control sensor to bumper</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>25AZ</Code>
+      <Torque>6,0</Torque>
+      <Notes>Air duct to front end</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>26AZ</Code>
+      <Torque>45,0</Torque>
+      <Notes>Towing eye to longitudinal member</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>27AZ</Code>
+      <Torque>20,0</Torque>
+      <Notes>Wheelhouse inner panel to body, front</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>28AZ</Code>
+      <Torque>20,0</Torque>
+      <Notes>Wheelhouse inner panel to body, rear</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>29AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Splash guard to wheelhouse</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>30AZ</Code>
+      <Torque>50,0</Torque>
+      <Notes>Engine mount to cross member</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>31AZ</Code>
+      <Torque>50,0</Torque>
+      <Notes>Engine mount to engine bracket</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>32AZ</Code>
+      <Torque>105,0</Torque>
+      <Notes>Transmission mount to cross member, M10</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>33AZ</Code>
+      <Torque>56,0</Torque>
+      <Notes>Transmission mount to transmission bracket</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>34AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Radiator to body, upper mount</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>35AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Radiator to body, lower mount</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>36AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>Coolant expansion tank to body</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>37AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Coolant hose clamp, spring type</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>38AZ</Code>
+      <Torque>3,5</Torque>
+      <Notes>Coolant hose clamp, worm drive type</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>39AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Thermostat housing to engine block</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>40AZ</Code>
+      <Torque>20,0</Torque>
+      <Notes>Water pump pulley to water pump</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>41AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Water pump to engine block</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>42AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>Oil filter housing to engine block</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>43AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Oil drain plug to oil pan</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>44AZ</Code>
+      <Torque>12,0</Torque>
+      <Notes>Oil level sensor to oil pan</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>45AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Oil pan to engine block, M6 bolts</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>46AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>Oil pan to engine block, M8 bolts</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>47AZ</Code>
+      <Torque>80,0</Torque>
+      <Notes>Flywheel to crankshaft</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>48AZ</Code>
+      <Torque>35,0</Torque>
+      <Notes>Exhaust manifold to cylinder head</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>49AZ</Code>
+      <Torque>45,0</Torque>
+      <Notes>Turbocharger to exhaust manifold</Notes>
+      <StartDate>2009-03-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>50AZ</Code>
+      <Torque>21,0</Torque>
+      <Notes>Exhaust flange to turbocharger outlet</Notes>
+      <StartDate>2009-03-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>51AZ</Code>
+      <Torque>21,0</Torque>
+      <Notes>Catalytic converter to exhaust pipe, M8 stud nuts</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>52AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Exhaust bracket to underbody</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>53AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Lambda sensor to exhaust pipe (hand-tight, then 1/2 turn)</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>54AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Intake manifold to cylinder head, M6 bolts</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>55AZ</Code>
+      <Torque>15,0</Torque>
+      <Notes>Throttle body to intake manifold</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>56AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Charge air cooler hose clamp</Notes>
+      <StartDate>2009-03-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>57AZ</Code>
+      <Torque>6,5</Torque>
+      <Notes>Fuel rail to intake manifold</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>58AZ</Code>
+      <Torque>30,0</Torque>
+      <Notes>High-pressure fuel pump to cylinder head</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>59AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Fuel injector clamping bracket to cylinder head</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>60AZ</Code>
+      <Torque>18,5</Torque>
+      <Notes>Ignition coil to cylinder head cover</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>61AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Spark plug to cylinder head</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2020-06-30</EndDate>
+    </Address>
+    <Address>
+      <Code>61AZ</Code>
+      <Torque>12,0</Torque>
+      <Notes>Spark plug to cylinder head, revised torque per TSB 2020-07</Notes>
+      <StartDate>2020-07-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>62AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Cylinder head cover to cylinder head, M6</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>63AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>Camshaft bearing cap to cylinder head</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>64AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Timing chain tensioner to engine block</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>65AZ</Code>
+      <Torque>15,0</Torque>
+      <Notes>Timing chain guide rail to engine block</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>66AZ</Code>
+      <Torque>70,0</Torque>
+      <Notes>Camshaft sprocket to camshaft</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>67AZ</Code>
+      <Torque>20,0</Torque>
+      <Notes>VANOS solenoid to cylinder head</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>68AZ</Code>
+      <Torque>35,0</Torque>
+      <Notes>Alternator to engine bracket, upper bolt</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>69AZ</Code>
+      <Torque>35,0</Torque>
+      <Notes>Alternator to engine bracket, lower bolt</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>70AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>A/C compressor to engine bracket</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>71AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Power steering pump to bracket</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>72AZ</Code>
+      <Torque>47,0</Torque>
+      <Notes>Vibration damper to crankshaft</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>73AZ</Code>
+      <Torque>20,0</Torque>
+      <Notes>Belt tensioner to engine block</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>74AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Idler pulley to engine block</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>75AZ</Code>
+      <Torque>35,0</Torque>
+      <Notes>Starter motor to transmission housing</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>76AZ</Code>
+      <Torque>18,5</Torque>
+      <Notes>Starter motor cable terminal, M8</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>77AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>Coolant thermostat housing cover, to 03/2012</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2012-03-31</EndDate>
+    </Address>
+    <Address>
+      <Code>77AZ</Code>
+      <Torque>18,5</Torque>
+      <Notes>Coolant thermostat housing cover, from 04/2012, revised gasket specification</Notes>
+      <StartDate>2012-04-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>78AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Engine cover to cylinder head cover</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>79AZ</Code>
+      <Torque>6,0</Torque>
+      <Notes>Oil filler cap to cylinder head cover</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>80AZ</Code>
+      <Torque>350,0</Torque>
+      <Notes>Crankshaft main bearing cap, M12, tighten in sequence</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>81AZ</Code>
+      <Torque>24,0</Torque>
+      <Notes>Connecting rod bearing cap, step 1</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>82AZ</Code>
+      <Torque>15,0</Torque>
+      <Notes>Glow plug to cylinder head (diesel variants only)</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>83AZ</Code>
+      <Torque>20,0</Torque>
+      <Notes>EGR valve to intake manifold (diesel variants only)</Notes>
+      <StartDate>2009-03-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>84AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>EGR cooler bracket to engine block</Notes>
+      <StartDate>2009-03-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>85AZ</Code>
+      <Torque>44,0</Torque>
+      <Notes>Injection pump sprocket to pump shaft</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>86AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>Vacuum pump to cylinder head</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>87AZ</Code>
+      <Torque>18,5</Torque>
+      <Notes>Brake booster to bulkhead</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2025-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>87AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>Brake booster to bulkhead, updated mounting specification</Notes>
+      <StartDate>2022-06-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>88AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Brake line flare nut to master cylinder</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>89AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>ABS module to bracket</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>90AZ</Code>
+      <Torque>-8,5</Torque>
+      <Notes>Brake caliper guide pin to carrier, front</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>91AZ</Code>
+      <Torque>30,0</Torque>
+      <Notes>Brake caliper guide pin to carrier, rear</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>92AZ</Code>
+      <Torque>110,0</Torque>
+      <Notes>Brake caliper to steering knuckle, front</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>93AZ</Code>
+      <Torque>90,0</Torque>
+      <Notes>Brake caliper to rear axle carrier</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>94AZ</Code>
+      <Torque>12,0</Torque>
+      <Notes>Brake disc retaining screw</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>95AZ</Code>
+      <Torque>140,0</Torque>
+      <Notes>Wheel bolt to hub, M14x1.5, alloy wheels</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>96AZ</Code>
+      <Torque>120,0</Torque>
+      <Notes>Wheel bolt to hub, M12x1.5, steel wheels</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>97AZ</Code>
+      <Torque>290,0</Torque>
+      <Notes>Front axle shaft nut, M22. Attention! Replace nut after each removal.</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>98AZ</Code>
+      <Torque>175,0</Torque>
+      <Notes>Lower control arm to subframe, front pivot</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>99AZ</Code>
+      <Torque>175,0</Torque>
+      <Notes>Lower control arm to subframe, rear pivot</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>100AZ</Code>
+      <Torque>110,0</Torque>
+      <Notes>Tie rod end to steering knuckle</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>101AZ</Code>
+      <Torque>74,0</Torque>
+      <Notes>Stabiliser link to strut, front</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>102AZ</Code>
+      <Torque>57,0</Torque>
+      <Notes>Stabiliser bar clamp to subframe</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>103AZ</Code>
+      <Notes>Shock absorber to spring strut upper mount. Attention! Apply thread lock medium-strength.</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>104AZ</Code>
+      <Torque>18,5</Torque>
+      <Notes>Shock absorber upper mount to body</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>105AZ</Code>
+      <Torque>150,0</Torque>
+      <Notes>Shock absorber to steering knuckle, lower</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>106AZ</Code>
+      <Torque>74,0</Torque>
+      <Notes>Rear shock absorber to rear axle carrier, lower</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>107AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Rear shock absorber to body, upper mount</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>108AZ</Code>
+      <Torque>165,0</Torque>
+      <Notes>Rear trailing arm to body</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>109AZ</Code>
+      <Torque>72,0</Torque>
+      <Notes>Rear upper control arm to hub carrier</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>110AZ</Code>
+      <Torque>72,0</Torque>
+      <Notes>Rear lower control arm to hub carrier</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>111AZ</Code>
+      <Torque>8500</Torque>
+      <Notes>Subframe to body, front mounting point, M12</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>112AZ</Code>
+      <Torque>150,0</Torque>
+      <Notes>Subframe to body, rear mounting point, M12</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>113AZ</Code>
+      <Torque>45,0</Torque>
+      <Notes>Steering gear to subframe</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>114AZ</Code>
+      <Torque>22,0</Torque>
+      <Notes>Steering column universal joint clamp bolt</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>115AZ</Code>
+      <Torque>6,0</Torque>
+      <Notes>Steering wheel airbag module retaining screws</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>116AZ</Code>
+      <Torque>45,0</Torque>
+      <Notes>Steering wheel to steering column, M16</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>117AZ</Code>
+      <Torque>6,0</Torque>
+      <Notes>Instrument cluster to dashboard carrier</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>118AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Seat rail to floor pan, front bolts</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>119AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Seat rail to floor pan, rear bolts</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>120AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Door hinge to door, upper</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>121AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Door hinge to door, lower</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>122AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Door hinge to A-pillar, upper</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>123AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Door hinge to A-pillar, lower</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>124AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Door check strap to door</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>125AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Door lock to door shell</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>126AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Window regulator to door, to 06/2015</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2015-06-30</EndDate>
+    </Address>
+    <Address>
+      <Code>126AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Window regulator to door, from 07/2015, revised fastener</Notes>
+      <StartDate>2014-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>127AZ</Code>
+      <Torque>6,0</Torque>
+      <Notes>Side mirror to door</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>128AZ</Code>
+      <Torque>12,0</Torque>
+      <Notes>Tail lamp to body</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>129AZ</Code>
+      <Torque>8,0</Torque>
+      <Notes>Rear bumper carrier to body</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>130AZ</Code>
+      <Torque>55,0</Torque>
+      <Notes>Rear towing eye to body. Attention! Apply anti-seize compound to threads before installation.</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>131AZ</Code>
+      <Torque>25,0</Torque>
+      <Notes>Trunk lid hinge to body</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+    <Address>
+      <Code>132AZ</Code>
+      <Torque>10,0</Torque>
+      <Notes>Trunk lock to trunk lid</Notes>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2030-12-31</EndDate>
+    </Address>
+  </Addresses>
+</TorqueDocument>
