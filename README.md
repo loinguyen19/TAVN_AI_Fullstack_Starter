@@ -29,6 +29,8 @@ frontend uses the Vite dev server, and the source directories are bind-mounted, 
 edits on the host apply without a rebuild.
 
 Stop with `Ctrl+C`, or `docker compose down` to remove the containers.
+Note: Please keep in mind that for current implementation, SQLite only perists past uploads
+by running on docker container. Running without docker will not persist past uploads.
 
 ## Verify it works
 
@@ -135,6 +137,7 @@ npm run dev
 **Caveat:** `frontend/vite.config.ts` proxies `/api` to `http://backend:8000` — the
 Docker Compose service name, which does not resolve outside Docker. To run the
 frontend on the host, temporarily change that target to `http://localhost:8000`.
+NOTE: Do not encourage to run withou Docker, no SQLite spin up.
 
 ## Project layout
 
