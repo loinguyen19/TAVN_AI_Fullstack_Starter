@@ -3,9 +3,14 @@ services:
     build: ./backend
     ports:
       - "8000:8000"
+    environment:
+      # Named volume, so upload history survives `docker compose down` and the
+      # SQLite file never lands inside the bind-mounted source tree.
+      - TORQUE_DB_PATH=/var/lib/torque/reports.db
     volumes:
       - ./backend:/app
       - ./data:/data
+      - torque-db:/var/lib/torque
 
   frontend:
     build: ./frontend
@@ -16,3 +21,6 @@ services:
       - /app/node_modules
     depends_on:
       - backend
+
+volumes:
+  torque-db:
